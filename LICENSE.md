@@ -1,12 +1,3 @@
-
-### Choosing a License
-
-Next, let's choose a license. The MIT License is a permissive license that allows others to freely use, modify, distribute, and even sell your software, as long as they credit you and license their new creations under identical terms. This license is simple and easy to understand, making it a great choice for open-source projects.
-
-### Draft LICENSE.md
-
-If the MIT License sounds suitable for your needs, here's a template you can use:
-
 ```license
 MIT License
 
